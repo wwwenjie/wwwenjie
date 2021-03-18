@@ -24,4 +24,4 @@ I'm wwwenjie, a full stack developer.
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I am very interested in LOL and movies.
 
-<img src="https://github-readme-stats.vercel.app/api?username=wwwenjie&hide_border=true&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" width="100%" alt="wwwenjie's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=wwwenjie&hide_border=true&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" width="60%" alt="wwwenjie's GitHub stats">
