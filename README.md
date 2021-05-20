@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-I'm wwwenjie, a full stack developer.
+I'm wenjie, a full stack developer.
 
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)
