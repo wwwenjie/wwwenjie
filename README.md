@@ -12,7 +12,6 @@ I'm wenjie, a full stack developer.
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-3b2e5a?style=plastic&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=plastic&logo=Vue.js&logoColor=white)
-  ![Nest](https://img.shields.io/badge/-Nest-E0234E?style=plastic&logo=nestjs)
   ![Koa](https://img.shields.io/badge/-Koa-black?style=plastic)
 - ⚙️ I also use and work:
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -22,6 +21,7 @@ I'm wenjie, a full stack developer.
   ![Serverless](https://img.shields.io/badge/-Serverless-black?style=plastic&logo=serverless)
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+  ![Spring](https://img.shields.io/badge/-Spring-black?style=plastic&logo=spring)
 - ⚡️ Fun fact: I am very interested in LOL and movies.
 
 <img src="https://github-readme-stats.vercel.app/api?username=wwwenjie&hide_border=true&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" alt="wwwenjie's GitHub stats" width="60%">
