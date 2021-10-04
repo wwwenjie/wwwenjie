@@ -9,6 +9,7 @@ I'm wenjie, a full stack developer.
   ![Webstorm](https://img.shields.io/badge/-Webstorm-black?style=plastic&logo=Webstorm)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 - 💻 I work using:
+  ![Spring](https://img.shields.io/badge/-Spring-black?style=plastic&logo=spring)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-3b2e5a?style=plastic&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=plastic&logo=Vue.js&logoColor=white)
@@ -18,10 +19,9 @@ I'm wenjie, a full stack developer.
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
 - 🌱 Learning all about:
-  ![Serverless](https://img.shields.io/badge/-Serverless-black?style=plastic&logo=serverless)
-  ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=graphql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
   ![Spring](https://img.shields.io/badge/-Spring-black?style=plastic&logo=spring)
+  ![Serverless](https://img.shields.io/badge/-Serverless-black?style=plastic&logo=serverless)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I am very interested in LOL and movies.
 
 <img src="https://github-readme-stats.vercel.app/api?username=wwwenjie&hide_border=true&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" alt="wwwenjie's GitHub stats" width="60%">
