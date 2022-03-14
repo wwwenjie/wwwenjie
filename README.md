@@ -9,11 +9,10 @@ I'm wenjie, a full stack developer.
   ![Webstorm](https://img.shields.io/badge/-Webstorm-black?style=plastic&logo=Webstorm)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 - 💻 I work using:
-  ![Spring](https://img.shields.io/badge/-Spring-black?style=plastic&logo=spring)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-3b2e5a?style=plastic&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=plastic&logo=Vue.js&logoColor=white)
-  ![Koa](https://img.shields.io/badge/-Koa-black?style=plastic)
+  ![Spring](https://img.shields.io/badge/-Spring-black?style=plastic&logo=spring)
 - ⚙️ I also use and work:
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
@@ -26,4 +25,4 @@ I'm wenjie, a full stack developer.
 
 <img src="https://github-readme-stats.vercel.app/api?username=wwwenjie&hide_border=true&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" alt="wwwenjie's GitHub stats" width="60%">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=wenjie&layout=compact&hide_border=true&hide_title=true" alt="wwwenjie's WakaTime" width="60%">
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=wenjie&layout=compact&langs_count=8&hide_border=true&hide_title=true" alt="wwwenjie's WakaTime" width="60%">
