@@ -21,7 +21,7 @@ I'm wenjie, a full stack developer.
   ![Spring](https://img.shields.io/badge/-Spring-black?style=plastic&logo=spring)
   ![Serverless](https://img.shields.io/badge/-Serverless-black?style=plastic&logo=serverless)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-- ⚡️ Fun fact: I am very interested in LOL and movies.
+- ⚡️ Fun fact: I am very interested in PUBG, LOL and movies.
 
 <img src="https://github-readme-stats.vercel.app/api?username=wwwenjie&hide_border=true&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" alt="wwwenjie's GitHub stats" width="60%">
 
